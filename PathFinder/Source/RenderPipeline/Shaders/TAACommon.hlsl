@@ -1,4 +1,4 @@
-#ifndef _TAACommon__
+﻿#ifndef _TAACommon__
 #define _TAACommon__
 
 #include "GroupsharedMemoryHelpers.hlsl"

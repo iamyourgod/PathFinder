@@ -1,4 +1,4 @@
-#ifndef _Packing__
+﻿#ifndef _Packing__
 #define _Packing__
 
 #include "Constants.hlsl"

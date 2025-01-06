@@ -1,4 +1,4 @@
-#ifndef _GIProbeHelpers__
+﻿#ifndef _GIProbeHelpers__
 #define _GIProbeHelpers__
 
 #include "Random.hlsl"

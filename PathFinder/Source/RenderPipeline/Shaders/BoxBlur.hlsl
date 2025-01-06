@@ -1,4 +1,4 @@
-#ifndef _BoxBlur__
+﻿#ifndef _BoxBlur__
 #define _BoxBlur__
 
 #include "GroupsharedMemoryHelpers.hlsl"

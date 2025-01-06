@@ -1,4 +1,4 @@
-#ifndef _ShadingCommon__
+﻿#ifndef _ShadingCommon__
 #define _ShadingCommon__
 
 #include "Mesh.hlsl"

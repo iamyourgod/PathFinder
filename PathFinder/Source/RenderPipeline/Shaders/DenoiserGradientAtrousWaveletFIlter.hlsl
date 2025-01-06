@@ -1,4 +1,4 @@
-#ifndef _DenoiserGradientAtrousWaveletFilter__
+﻿#ifndef _DenoiserGradientAtrousWaveletFilter__
 #define _DenoiserGradientAtrousWaveletFilter__
 
 struct PassCBData

@@ -1,4 +1,4 @@
-#ifndef _GeometryPicking__
+﻿#ifndef _GeometryPicking__
 #define _GeometryPicking__
 
 struct PassData

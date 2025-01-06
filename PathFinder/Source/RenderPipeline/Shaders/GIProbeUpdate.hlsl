@@ -1,4 +1,4 @@
-#ifndef _GIProbeUpdate__
+﻿#ifndef _GIProbeUpdate__
 #define _GIProbeUpdate__
 
 #include "GIProbeHelpers.hlsl"

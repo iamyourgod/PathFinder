@@ -1,4 +1,4 @@
-#ifndef _Mesh__
+﻿#ifndef _Mesh__
 #define _Mesh__
 
 #include "Vertices.hlsl"

@@ -1,4 +1,4 @@
-#ifndef _DenoiserReprojection__
+﻿#ifndef _DenoiserReprojection__
 #define _DenoiserReprojection__
 
 #include "DenoiserCommon.hlsl"

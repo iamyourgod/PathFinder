@@ -1,4 +1,4 @@
-#ifndef _ColorConversion__
+﻿#ifndef _ColorConversion__
 #define _ColorConversion__
 
 // http://www.chilliant.com/rgb2hsv.html

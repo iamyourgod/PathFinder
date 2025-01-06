@@ -1,4 +1,4 @@
-#ifndef _DenoiserHistoryFix__
+﻿#ifndef _DenoiserHistoryFix__
 #define _DenoiserHistoryFix__
 
 #include "DenoiserCommon.hlsl"
@@ -37,7 +37,7 @@ void Fix(Texture2D inputTexture, RWTexture2D<float4> outputTexture, Texture2D vi
         return;
     }
 
-    float2 mipSize = GlobalDataCB.PipelineRTResolution / (1 << mipLevel);
+    float2 mipSize = GlobalDataCB.PipelineRTResolution / (1u << mipLevel);
     Bilinear bilinearFilter = GetBilinearFilter(uv, 1.0 / mipSize, mipSize);
 
     float4 mipViewDepths = GatherRedManually(viewDepthTexture, bilinearFilter, mipLevel, PointClampSampler());

@@ -1,4 +1,4 @@
-#ifndef _DenoiserCommon__
+﻿#ifndef _DenoiserCommon__
 #define _DenoiserCommon__
 
 #include "Geometry.hlsl"

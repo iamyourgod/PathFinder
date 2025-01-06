@@ -1,4 +1,4 @@
-#ifndef _ToneMappingRenderPass__
+﻿#ifndef _ToneMappingRenderPass__
 #define _ToneMappingRenderPass__
 
 #include "GTTonemapping.hlsl"

@@ -1,4 +1,4 @@
-#ifndef _GroupsharedMemoryHelpers__
+﻿#ifndef _GroupsharedMemoryHelpers__
 #define _GroupsharedMemoryHelpers__
 
 struct GSBoxLoadStoreCoords

@@ -1,4 +1,4 @@
-// Normally argument "dipatchGridDim" is parsed through a constant buffer. However, if for some reason it is a
+﻿// Normally argument "dipatchGridDim" is parsed through a constant buffer. However, if for some reason it is a
 // static value, some DXC compiler versions will be unable to compile the code.
 // If that's the case for you, flip DXC_STATIC_DISPATCH_GRID_DIM definition from 0 to 1.
 #define DXC_STATIC_DISPATCH_GRID_DIM 0

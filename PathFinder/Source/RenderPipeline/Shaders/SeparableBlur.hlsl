@@ -1,4 +1,4 @@
-#ifndef _SeparableBlur__
+﻿#ifndef _SeparableBlur__
 #define _SeparableBlur__
 
 #include "GroupsharedMemoryHelpers.hlsl"

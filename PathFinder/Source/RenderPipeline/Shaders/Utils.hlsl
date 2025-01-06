@@ -1,4 +1,4 @@
-#ifndef _Utils__
+﻿#ifndef _Utils__
 #define _Utils__
 
 #include "Constants.hlsl"

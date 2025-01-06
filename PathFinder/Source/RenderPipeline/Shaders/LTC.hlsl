@@ -1,4 +1,4 @@
-//
+﻿//
 // Copyright (c) 2017, Eric Heitz, Jonathan Dupuy, Stephen Hill and David Neubelt.
 // All rights reserved.
 // 

@@ -1,4 +1,4 @@
-#ifndef _DenoiserForwardProjection__
+﻿#ifndef _DenoiserForwardProjection__
 #define _DenoiserForwardProjection__
 
 #include "ColorConversion.hlsl"

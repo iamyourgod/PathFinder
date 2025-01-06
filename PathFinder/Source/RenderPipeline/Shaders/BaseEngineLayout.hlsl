@@ -1,4 +1,4 @@
-#ifndef _BaseEngineLayout__
+﻿#ifndef _BaseEngineLayout__
 #define _BaseEngineLayout__
 
 // The maximum size of a root signature is 64 DWORDs :

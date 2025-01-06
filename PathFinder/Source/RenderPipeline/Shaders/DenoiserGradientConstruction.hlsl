@@ -1,4 +1,4 @@
-#ifndef _DenoiserGradientConstruction__
+﻿#ifndef _DenoiserGradientConstruction__
 #define _DenoiserGradientConstruction__
 
 struct PassCBData

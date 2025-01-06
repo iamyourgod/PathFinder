@@ -1,4 +1,4 @@
-#ifndef _BRDF__
+﻿#ifndef _BRDF__
 #define _BRDF__
 
 #include "Constants.hlsl"

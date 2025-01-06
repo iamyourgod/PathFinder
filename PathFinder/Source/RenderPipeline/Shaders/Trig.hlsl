@@ -1,4 +1,4 @@
-#ifndef _Trig__
+﻿#ifndef _Trig__
 #define _Trig__
 
 // From Nvidia CG documentation

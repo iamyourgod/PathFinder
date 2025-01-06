@@ -1,4 +1,4 @@
-#ifndef _Gaussian__
+﻿#ifndef _Gaussian__
 #define _Gaussian__
 
 #include "Constants.hlsl"

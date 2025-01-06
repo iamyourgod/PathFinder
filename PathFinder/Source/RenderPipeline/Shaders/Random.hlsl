@@ -1,4 +1,4 @@
-#ifndef _Random__
+﻿#ifndef _Random__
 #define _Random__
 
 #include "Constants.hlsl"

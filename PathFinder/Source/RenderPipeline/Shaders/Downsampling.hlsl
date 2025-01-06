@@ -1,4 +1,4 @@
-#ifndef _AveragingDownscaling__
+﻿#ifndef _AveragingDownscaling__
 #define _AveragingDownscaling__
 
 #include "ColorConversion.hlsl"

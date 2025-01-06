@@ -1,4 +1,4 @@
-#ifndef _Light__
+﻿#ifndef _Light__
 #define _Light__
 
 #include "Matrix.hlsl"

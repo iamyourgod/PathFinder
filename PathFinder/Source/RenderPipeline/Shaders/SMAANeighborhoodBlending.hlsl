@@ -1,4 +1,4 @@
-#ifndef _SMAANeighborhoodBlending__
+﻿#ifndef _SMAANeighborhoodBlending__
 #define _SMAANeighborhoodBlending__
 
 struct PassData

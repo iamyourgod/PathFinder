@@ -1,4 +1,4 @@
-#ifndef _Shading__
+﻿#ifndef _Shading__
 #define _Shading__
 
 #include "Random.hlsl"

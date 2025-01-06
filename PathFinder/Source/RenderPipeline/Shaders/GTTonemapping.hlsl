@@ -1,4 +1,4 @@
-#ifndef _GTTonemapping__
+﻿#ifndef _GTTonemapping__
 #define _GTTonemapping__
 
 //

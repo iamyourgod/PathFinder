@@ -1,4 +1,4 @@
-#ifndef _DenoiserPostBlur__
+﻿#ifndef _DenoiserPostBlur__
 #define _DenoiserPostBlur__
 
 #include "ThreadGroupTilingX.hlsl"

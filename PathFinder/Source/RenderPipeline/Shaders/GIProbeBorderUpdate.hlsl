@@ -1,4 +1,4 @@
-#ifndef _GIProbeBorderUpdate__
+﻿#ifndef _GIProbeBorderUpdate__
 #define _GIProbeBorderUpdate__
 
 #include "GIProbeHelpers.hlsl"

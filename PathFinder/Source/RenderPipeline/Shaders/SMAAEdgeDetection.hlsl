@@ -1,4 +1,4 @@
-#ifndef _SMAAEdgeDetection__
+﻿#ifndef _SMAAEdgeDetection__
 #define _SMAAEdgeDetection__
 
 struct PassData

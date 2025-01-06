@@ -1,4 +1,4 @@
-#ifndef _ImportanceSampling__
+﻿#ifndef _ImportanceSampling__
 #define _ImportanceSampling__
 
 #include "Constants.hlsl"

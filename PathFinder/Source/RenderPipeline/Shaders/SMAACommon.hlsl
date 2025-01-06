@@ -1,4 +1,4 @@
-#ifndef _SMAACommon__
+﻿#ifndef _SMAACommon__
 #define _SMAACommon__
 
 #include "MandatoryEntryPointInclude.hlsl"

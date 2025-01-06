@@ -1,4 +1,4 @@
-#ifndef _UIRenderPass__
+﻿#ifndef _UIRenderPass__
 #define _UIRenderPass__
 
 struct PassData

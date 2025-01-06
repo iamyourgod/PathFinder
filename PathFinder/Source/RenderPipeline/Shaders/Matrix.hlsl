@@ -1,4 +1,4 @@
-#ifndef _Matrix__
+﻿#ifndef _Matrix__
 #define _Matrix__
 
 static const float3 UpY = float3(0.0, 1.0, 0.0);

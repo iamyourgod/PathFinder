@@ -1,4 +1,4 @@
-#ifndef _BackBufferOutput__
+﻿#ifndef _BackBufferOutput__
 #define _BackBufferOutput__
 
 struct PassData

@@ -1,4 +1,4 @@
-#ifndef _UAVClear__
+﻿#ifndef _UAVClear__
 #define _UAVClear__
 
 static const uint ClearOpTextureFloat = 0;

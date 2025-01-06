@@ -1,4 +1,4 @@
-#ifndef _DistanceMapHelperInitialization__
+﻿#ifndef _DistanceMapHelperInitialization__
 #define _DistanceMapHelperInitialization__
 
 #include "DistanceMapCommon.hlsl"

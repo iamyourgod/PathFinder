@@ -1,4 +1,4 @@
-#ifndef _SMAABlendingWeightCalculation__
+﻿#ifndef _SMAABlendingWeightCalculation__
 #define _SMAABlendingWeightCalculation__
 
 struct PassData

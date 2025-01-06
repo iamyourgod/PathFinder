@@ -1,4 +1,4 @@
-#ifndef _Vertices__
+﻿#ifndef _Vertices__
 #define _Vertices__
 
 struct Vertex1P1N1UV

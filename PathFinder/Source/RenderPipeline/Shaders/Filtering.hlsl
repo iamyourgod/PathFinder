@@ -1,4 +1,4 @@
-#ifndef _Filtering__
+﻿#ifndef _Filtering__
 #define _Filtering__
 
 // Numerically stable manual bilinear filtering

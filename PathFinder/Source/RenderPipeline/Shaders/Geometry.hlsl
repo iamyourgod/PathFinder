@@ -1,4 +1,4 @@
-#ifndef _Geometry__
+ï»¿#ifndef _Geometry__
 #define _Geometry__
 
 #include "Utils.hlsl"
@@ -94,8 +94,6 @@ float3 InterpolatePatch(BilinearPatch patch, float2 uv)
         uv.x * uv.y * patch.Q11;
 }
 
-// Ray Tracing Gems: A Geometric Approach to Ray/Bilinear Patch Intersections
-//
 bool RayBilinearPatchIntersection(BilinearPatch patch, Ray ray, out float3 intersectionPoint)
 {
     // 4 corners + "normal" qn 
@@ -206,7 +204,6 @@ float3 RayTriangleIntersection(float3 ro, float3 rd, float3 v0, float3 v1, float
 
 // Ray - cell intersection routine for height - fields given in  H. Ki and K. Oh. 
 // Accurate per-pixel displacement mapping using a pyramid structure - http://ki-h.com/article/ipdm.html. 
-// pages 55–62, New York, NY, USA, 2007. ACM. Was extended to 3D for DDM of resolution(Lx x Ly x Lz).
 // Here e is a small constant.
 // 1: s = floor(txLx, tyLy, tzLz) 
 // 2: u = (sign(r) + 1.0) / 2 

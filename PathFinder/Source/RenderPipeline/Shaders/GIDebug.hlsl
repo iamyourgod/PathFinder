@@ -1,4 +1,4 @@
-#ifndef _GIDebug__
+﻿#ifndef _GIDebug__
 #define _GIDebug__
 
 #include "Matrix.hlsl"

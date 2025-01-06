@@ -1,4 +1,4 @@
-#ifndef _DistanceMapGeneration__
+﻿#ifndef _DistanceMapGeneration__
 #define _DistanceMapGeneration__
 
 #include "DistanceMapCommon.hlsl"

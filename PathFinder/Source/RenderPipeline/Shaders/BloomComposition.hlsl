@@ -1,4 +1,4 @@
-#ifndef _BloomComposition__
+﻿#ifndef _BloomComposition__
 #define _BloomComposition__
 
 struct PassData

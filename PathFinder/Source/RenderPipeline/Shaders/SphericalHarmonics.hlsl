@@ -1,4 +1,4 @@
-#ifndef _SphericalHarmonics__
+﻿#ifndef _SphericalHarmonics__
 #define _SphericalHarmonics__
 
 #include "Constants.hlsl"

@@ -1,4 +1,4 @@
-#ifndef _GBufferLights__
+﻿#ifndef _GBufferLights__
 #define _GBufferLights__
 
 #include "MandatoryEntryPointInclude.hlsl"

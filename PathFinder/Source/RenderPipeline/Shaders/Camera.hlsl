@@ -1,4 +1,4 @@
-#ifndef _Camera__
+﻿#ifndef _Camera__
 #define _Camera__
 
 struct Camera

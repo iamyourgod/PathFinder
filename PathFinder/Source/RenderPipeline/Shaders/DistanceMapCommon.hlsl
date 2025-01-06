@@ -1,4 +1,4 @@
-#ifndef _DistanceMapCommon__
+﻿#ifndef _DistanceMapCommon__
 #define _DistanceMapCommon__
 
 struct PassData

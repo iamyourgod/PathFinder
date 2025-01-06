@@ -1,4 +1,4 @@
-#ifndef _BloomDownscaling__
+﻿#ifndef _BloomDownscaling__
 #define _BloomDownscaling__
 
 struct PassData

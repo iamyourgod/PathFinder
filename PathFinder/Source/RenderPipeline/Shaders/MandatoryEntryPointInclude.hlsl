@@ -1,4 +1,4 @@
-#ifndef _MandatoryEntryPointInclude__
+﻿#ifndef _MandatoryEntryPointInclude__
 #define _MandatoryEntryPointInclude__
 
 #include "Camera.hlsl"

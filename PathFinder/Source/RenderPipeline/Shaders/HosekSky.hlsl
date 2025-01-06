@@ -1,4 +1,4 @@
-#ifndef _HosekSky__
+﻿#ifndef _HosekSky__
 #define _HosekSky__
 
 struct ArHosekSkyModelState

@@ -1,4 +1,4 @@
-#ifndef _RngSeedGeneration__
+﻿#ifndef _RngSeedGeneration__
 #define _RngSeedGeneration__
 
 struct PassData

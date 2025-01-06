@@ -1,4 +1,4 @@
-#ifndef _DistanceMapHelperCompression__
+﻿#ifndef _DistanceMapHelperCompression__
 #define _DistanceMapHelperCompression__
 
 #include "DistanceMapCommon.hlsl"

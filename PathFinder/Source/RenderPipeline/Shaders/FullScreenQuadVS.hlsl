@@ -1,4 +1,4 @@
-#ifndef _FullScreenQuadVS__
+﻿#ifndef _FullScreenQuadVS__
 #define _FullScreenQuadVS__
 
 struct VertexOut

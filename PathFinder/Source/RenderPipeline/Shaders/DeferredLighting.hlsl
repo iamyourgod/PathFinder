@@ -1,4 +1,4 @@
-#ifndef _DeferredLighting__
+﻿#ifndef _DeferredLighting__
 #define _DeferredLighting__
 
 #include "Mesh.hlsl"

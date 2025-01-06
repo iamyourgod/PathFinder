@@ -1,4 +1,4 @@
-#ifndef _Exposure__
+﻿#ifndef _Exposure__
 #define _Exposure__
 
 #include "Utils.hlsl"
